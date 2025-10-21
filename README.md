@@ -10,15 +10,15 @@
 
 >Команда:
 >
->![Command](images/command.png) 
+>![Command](https://github.com/user-attachments/assets/d1662694-1d8a-46dc-899d-17ab20e642dc) 
 
 >До:
 >
->![Before](images/before.png)
+>![Before](https://github.com/user-attachments/assets/62d4b392-ade4-44a2-96ae-54c0deefa8d3)
 
 >После:
 >
->![After](images/after.png)
+>![After](https://github.com/user-attachments/assets/af285ed1-1012-4b20-915f-5cbd2e03d40d)
 
 
 ## Требования к раскладке клавиатуры
