@@ -42,7 +42,7 @@ export function activate(context: vscode.ExtensionContext) {
 		const selection = editor.selection;
 		const text = editor.document.getText(selection);
 		if (!text){
-			vscode.window.showWarningMessage("Нет выделенного текста")
+			vscode.window.showWarningMessage("Нет выделенного текста");
 		}
 
 		const changed_text = SwapLayout(text);
@@ -68,7 +68,7 @@ function SwapLayout(text: string): string {
 		}
 
 		if (new_char){ // Если буква есть в мапе
-			res += (char == lower_char) ? new_char : new_char.toUpperCase();
+			res += (char === lower_char) ? new_char : new_char.toUpperCase();
 		} else {
 			res += char;
 		}
