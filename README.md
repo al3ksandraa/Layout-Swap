@@ -4,6 +4,8 @@
 
 > Layout Swap - расширение, позволяющее быстро конвертировать текст, случайно набранный в русской раскладке, обратно в английскую
 
+[Layout Swap в Marketplace](https://marketplace.visualstudio.com/items?itemName=AleksandraDermeleva.layoutswap)
+
 ## Как работает:
 
 После выделения текста, написаного кириллицей, необходимо выполнить команду в *command palette* или использовать горячие клавиши `Alt + L` для быстрого доступа
