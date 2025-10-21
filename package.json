@@ -3,6 +3,11 @@
   "displayName": "LayoutSwap",
   "description": "Changes the text layout from Russian to English",
   "version": "0.0.1",
+  "publisher": "AleksandraDermeleva",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/al3ksandraa/Layout-Swap.git"
+  },
   "engines": {
     "vscode": "^1.105.0"
   },
