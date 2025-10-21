@@ -14,10 +14,15 @@
   "contributes": {
     "commands": [
       {
-        "command": "layoutswap.helloWorld",
-        "title": "Hello World"
+        "command": "layoutswap.Swap",
+        "title": "Swap Layout"
       }
-    ]
+    ],
+    "keybindings":{
+      "command": "layoutswap.Swap",
+      "key": "alt+l",
+      "when": "editorTextFocus"
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
